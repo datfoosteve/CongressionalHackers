@@ -1,5 +1,3 @@
-// Javascript Page
-
 let $searchBtn = $("#searchBtn")
 let $searchText = $("#searchText")
 
